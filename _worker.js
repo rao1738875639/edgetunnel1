@@ -55,6 +55,7 @@ let addresses = [
 	'icook.hk',
 	'104.17.0.0#IPv4',
 	'[2606:4700::]#IPv6'
+        '[2606:4700:d0:d1:5f84:1371:cfb9:4186::]#IPv6'
 	*/
 ];
 let addressesapi = [];
